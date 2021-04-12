@@ -1,0 +1,7 @@
+# README
+
+1.请填写conf.toml 相关配置信息。配置项与Yearning1.0基本相同
+2. ./yearning install
+3. ./yearning run
+
+详细参数 请执行./Yearning --help 获得帮助信息

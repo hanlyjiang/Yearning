@@ -1,0 +1,10 @@
+[Mysql]
+Db = "Yearning"
+Host = "192.168.42.41"
+Port = "3306"
+Password = "root"
+User = "root"
+
+[General]
+SecretKey = "dbcjqheupqjsuwsm"
+Hours = 4
